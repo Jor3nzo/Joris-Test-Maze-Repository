@@ -1,14 +1,15 @@
-
-#Important Information 
-##About this game:
-###This game was made by a begginer programmer.
-###So dont expect much, but try to enjoy.
+#Maze Game
+#Important information 
+##About this game
+###This game was made by a begginer programmer
+###Tried to make it as good as possible
 ##Levels
-###In total 3 levels:
-###In all off them you have to reach a portal to reach next level.
+###There is 3 levels in total
+###You need to complete them without touching any walls
+###You will complete a level when you reach a portal
 ##Controls
-##Use your mouse to move in game.
-##Folow my socials:
+###Use your mouse to move a player.
+##Folow my socials 
 ###ig; @21_joris_21
-#Goodluck
-#Link:
+#Good luck and enjoy
+#Link
